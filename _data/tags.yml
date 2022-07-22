@@ -1,14 +1,14 @@
 tag1:
-  name: surveillance
+  name: gentoo
 
 tag2:
-  name: programming
+  name: emacs
 
 tag3:
-  name: philosophy
+  name: freebsd
 
 tag4:
-  name: unix
+  name: lisp_machines
 
 gentoo:
   name: portage
