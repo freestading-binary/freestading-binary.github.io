@@ -8,10 +8,10 @@ tag3:
   name: freebsd
 
 tag4:
-  name: lisp_machines
+  name: lisp-machines
 
 gentoo:
   name: portage
 
 tag6:
-  name: inferno
+  name: my-writings
